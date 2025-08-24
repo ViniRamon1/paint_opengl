@@ -1,0 +1,546 @@
+# depslib dependency file v1.0
+1754432107 source:c:\users\cherllydo\documents\trabalho computacao grafica\main.c
+	<GL/freeglut.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+
+1754704727 source:c:\users\vinic\onedrive\documentos\trabalho_computacao_grafica[1]\trabalho computacao grafica\main.c
+	<GL/freeglut.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+
+1754758138 source:c:\users\vinic\onedrive\documentos\ufca\computação grafica\trabalho_computacao_grafica[1]\trabalho computacao grafica\main.c
+	<GL/freeglut.h>
+	"render.h"
+	"eventos.h"
+
+1754758021 source:c:\users\vinic\onedrive\documentos\ufca\computação grafica\trabalho_computacao_grafica[1]\trabalho computacao grafica\arquivo.c
+
+1754758105 c:\users\vinic\onedrive\documentos\ufca\computação grafica\trabalho_computacao_grafica[1]\trabalho computacao grafica\render.h
+
+1754758124 c:\users\vinic\onedrive\documentos\ufca\computação grafica\trabalho_computacao_grafica[1]\trabalho computacao grafica\eventos.h
+
+1754758092 source:c:\users\vinic\onedrive\documentos\ufca\computação grafica\trabalho_computacao_grafica[1]\trabalho computacao grafica\objetos.c
+	<stdlib.h>
+	"objetos.h"
+
+1754758073 c:\users\vinic\onedrive\documentos\ufca\computação grafica\trabalho_computacao_grafica[1]\trabalho computacao grafica\objetos.h
+
+1754758110 source:c:\users\vinic\onedrive\documentos\ufca\computação grafica\trabalho_computacao_grafica[1]\trabalho computacao grafica\render.c
+	<GL/freeglut.h>
+	"objetos.h"
+
+1754757970 source:c:\users\vinic\onedrive\documentos\ufca\computação grafica\trabalho_computacao_grafica[1]\trabalho computacao grafica\transformacoes.c
+	"transformacoes.h"
+	<math.h>
+
+1754757950 c:\users\vinic\onedrive\documentos\ufca\computação grafica\trabalho_computacao_grafica[1]\trabalho computacao grafica\transformacoes.h
+	"objetos.h"
+
+1754758250 source:c:\users\vinic\onedrive\documentos\ufca\computação grafica\trabalho_computacao_grafica[1]\trabalho computacao grafica\eventos.c
+	<GL/freeglut.h>
+	<stdio.h>
+	"objetos.h"
+
+1754758196 source:c:\users\vinic\onedrive\documentos\ufca\computação grafica\trabalho_computacao_grafica[1]\trabalho computacao grafica\selecao.c
+	<math.h>
+	"selecao.h"
+	<stdlib.h>
+
+1754757985 c:\users\vinic\onedrive\documentos\ufca\computação grafica\trabalho_computacao_grafica[1]\trabalho computacao grafica\selecao.h
+	"objetos.h"
+
+1754758250 source:c:\users\cherllydo\downloads\trabalho computacao grafica\trabalho computacao grafica\eventos.c
+	<GL/freeglut.h>
+	<stdio.h>
+	"objetos.h"
+
+1754758073 c:\users\cherllydo\downloads\trabalho computacao grafica\trabalho computacao grafica\objetos.h
+
+1754772930 source:c:\users\cherllydo\downloads\trabalho computacao grafica\trabalho computacao grafica\main.c
+	<GL/freeglut.h>
+	"render.h"
+	"eventos.h"
+
+1754758105 c:\users\cherllydo\downloads\trabalho computacao grafica\trabalho computacao grafica\render.h
+
+1754758124 c:\users\cherllydo\downloads\trabalho computacao grafica\trabalho computacao grafica\eventos.h
+
+1754758092 source:c:\users\cherllydo\downloads\trabalho computacao grafica\trabalho computacao grafica\objetos.c
+	<stdlib.h>
+	"objetos.h"
+
+1754758110 source:c:\users\cherllydo\downloads\trabalho computacao grafica\trabalho computacao grafica\render.c
+	<GL/freeglut.h>
+	"objetos.h"
+
+1754758196 source:c:\users\cherllydo\downloads\trabalho computacao grafica\trabalho computacao grafica\selecao.c
+	<math.h>
+	"selecao.h"
+	<stdlib.h>
+
+1754757985 c:\users\cherllydo\downloads\trabalho computacao grafica\trabalho computacao grafica\selecao.h
+	"objetos.h"
+
+1754757970 source:c:\users\cherllydo\downloads\trabalho computacao grafica\trabalho computacao grafica\transformacoes.c
+	"transformacoes.h"
+	<math.h>
+
+1754757950 c:\users\cherllydo\downloads\trabalho computacao grafica\trabalho computacao grafica\transformacoes.h
+	"objetos.h"
+
+1754771431 source:c:\users\cherllydo\downloads\trabalho computacao grafica\trabalho computacao grafica\arquivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arquivo.h"
+	"objetos.h"
+
+1754758013 c:\users\cherllydo\downloads\trabalho computacao grafica\trabalho computacao grafica\arquivo.h
+
+1755083619 source:d:\arquivos\documents\ufca\trabalho computacao grafica\trabalho computacao grafica\trabalho computacao grafica\arquivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arquivo.h"
+	"objetos.h"
+
+1755083619 d:\arquivos\documents\ufca\trabalho computacao grafica\trabalho computacao grafica\trabalho computacao grafica\arquivo.h
+
+1755083619 d:\arquivos\documents\ufca\trabalho computacao grafica\trabalho computacao grafica\trabalho computacao grafica\objetos.h
+
+1755083619 source:d:\arquivos\documents\ufca\trabalho computacao grafica\trabalho computacao grafica\trabalho computacao grafica\main.c
+	<GL/freeglut.h>
+	"render.h"
+	"eventos.h"
+
+1755083619 d:\arquivos\documents\ufca\trabalho computacao grafica\trabalho computacao grafica\trabalho computacao grafica\render.h
+
+1755083619 d:\arquivos\documents\ufca\trabalho computacao grafica\trabalho computacao grafica\trabalho computacao grafica\eventos.h
+
+1755083619 source:d:\arquivos\documents\ufca\trabalho computacao grafica\trabalho computacao grafica\trabalho computacao grafica\objetos.c
+	<stdlib.h>
+	"objetos.h"
+
+1755083619 source:d:\arquivos\documents\ufca\trabalho computacao grafica\trabalho computacao grafica\trabalho computacao grafica\transformacoes.c
+	"transformacoes.h"
+	<math.h>
+
+1755083619 d:\arquivos\documents\ufca\trabalho computacao grafica\trabalho computacao grafica\trabalho computacao grafica\transformacoes.h
+	"objetos.h"
+
+1755083619 source:d:\arquivos\documents\ufca\trabalho computacao grafica\arquivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arquivo.h"
+	"objetos.h"
+
+1755083619 d:\arquivos\documents\ufca\trabalho computacao grafica\arquivo.h
+
+1755083619 d:\arquivos\documents\ufca\trabalho computacao grafica\objetos.h
+
+1755084016 source:d:\arquivos\documents\ufca\trabalho computacao grafica\eventos.c
+	<GL/freeglut.h>
+	<stdio.h>
+	"objetos.h"
+	"selecao.h"
+
+1755084042 d:\arquivos\documents\ufca\trabalho computacao grafica\selecao.h
+	"objetos.h"
+
+1755083619 source:d:\arquivos\documents\ufca\trabalho computacao grafica\main.c
+	<GL/freeglut.h>
+	"render.h"
+	"eventos.h"
+
+1755083619 d:\arquivos\documents\ufca\trabalho computacao grafica\render.h
+
+1755083619 d:\arquivos\documents\ufca\trabalho computacao grafica\eventos.h
+
+1755083619 source:d:\arquivos\documents\ufca\trabalho computacao grafica\objetos.c
+	<stdlib.h>
+	"objetos.h"
+
+1755084003 source:d:\arquivos\documents\ufca\trabalho computacao grafica\render.c
+	<GL/freeglut.h>
+	"objetos.h"
+
+1755084049 source:d:\arquivos\documents\ufca\trabalho computacao grafica\selecao.c
+	<math.h>
+	<stdlib.h>
+	"selecao.h"
+
+1755083619 source:d:\arquivos\documents\ufca\trabalho computacao grafica\transformacoes.c
+	"transformacoes.h"
+	<math.h>
+
+1755083619 d:\arquivos\documents\ufca\trabalho computacao grafica\transformacoes.h
+	"objetos.h"
+
+1755218752 source:c:\users\rwann pabblo\desktop\codigos\c\trabalho computacao grafica\arquivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arquivo.h"
+	"objetos.h"
+
+1755218752 c:\users\rwann pabblo\desktop\codigos\c\trabalho computacao grafica\arquivo.h
+
+1755469412 c:\users\rwann pabblo\desktop\codigos\c\trabalho computacao grafica\objetos.h
+
+1755469485 source:c:\users\rwann pabblo\desktop\codigos\c\trabalho computacao grafica\eventos.c
+	<GL/freeglut.h>
+	<stdio.h>
+	"objetos.h"
+	"selecao.h"
+
+1755469585 c:\users\rwann pabblo\desktop\codigos\c\trabalho computacao grafica\selecao.h
+	"objetos.h"
+
+1755218752 source:c:\users\rwann pabblo\desktop\codigos\c\trabalho computacao grafica\main.c
+	<GL/freeglut.h>
+	"render.h"
+	"eventos.h"
+
+1755218752 c:\users\rwann pabblo\desktop\codigos\c\trabalho computacao grafica\render.h
+
+1755469412 c:\users\rwann pabblo\desktop\codigos\c\trabalho computacao grafica\eventos.h
+
+1755469412 source:c:\users\rwann pabblo\desktop\codigos\c\trabalho computacao grafica\objetos.c
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"objetos.h"
+
+1755218752 source:c:\users\rwann pabblo\desktop\codigos\c\trabalho computacao grafica\render.c
+	<GL/freeglut.h>
+	"objetos.h"
+
+1755467035 source:c:\users\rwann pabblo\desktop\codigos\c\trabalho computacao grafica\selecao.c
+	<math.h>
+	<stdlib.h>
+	"selecao.h"
+
+1755218752 source:c:\users\rwann pabblo\desktop\codigos\c\trabalho computacao grafica\transformacoes.c
+	"transformacoes.h"
+	<math.h>
+
+1755218752 c:\users\rwann pabblo\desktop\codigos\c\trabalho computacao grafica\transformacoes.h
+	"objetos.h"
+
+1755471840 source:d:\arquivos\documents\ufca\trabalho computacao grafica v2zip\trabalho computacao grafica\arquivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arquivo.h"
+	"objetos.h"
+
+1755472586 d:\arquivos\documents\ufca\trabalho computacao grafica v2zip\trabalho computacao grafica\arquivo.h
+
+1755473180 d:\arquivos\documents\ufca\trabalho computacao grafica v2zip\trabalho computacao grafica\objetos.h
+
+1755473413 source:d:\arquivos\documents\ufca\trabalho computacao grafica v2zip\trabalho computacao grafica\eventos.c
+	<GL/freeglut.h>
+	<stdio.h>
+	"objetos.h"
+	"selecao.h"
+	"transformacoes.h"
+	<math.h>
+
+1755471840 d:\arquivos\documents\ufca\trabalho computacao grafica v2zip\trabalho computacao grafica\selecao.h
+	"objetos.h"
+
+1755473625 source:d:\arquivos\documents\ufca\trabalho computacao grafica v2zip\trabalho computacao grafica\main.c
+	<GL/freeglut.h>
+	"render.h"
+	"eventos.h"
+	"transformacoes.h"
+
+1755471840 d:\arquivos\documents\ufca\trabalho computacao grafica v2zip\trabalho computacao grafica\render.h
+
+1755471840 d:\arquivos\documents\ufca\trabalho computacao grafica v2zip\trabalho computacao grafica\eventos.h
+
+1755473246 source:d:\arquivos\documents\ufca\trabalho computacao grafica v2zip\trabalho computacao grafica\objetos.c
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"objetos.h"
+
+1755471840 source:d:\arquivos\documents\ufca\trabalho computacao grafica v2zip\trabalho computacao grafica\render.c
+	<GL/freeglut.h>
+	"objetos.h"
+
+1755471840 source:d:\arquivos\documents\ufca\trabalho computacao grafica v2zip\trabalho computacao grafica\selecao.c
+	<math.h>
+	<stdlib.h>
+	"selecao.h"
+
+1755472592 source:d:\arquivos\documents\ufca\trabalho computacao grafica v2zip\trabalho computacao grafica\transformacoes.c
+	<math.h>
+	<stdlib.h>
+	"transformacoes.h"
+
+1755472284 d:\arquivos\documents\ufca\trabalho computacao grafica v2zip\trabalho computacao grafica\transformacoes.h
+	"objetos.h"
+
+1755663312 source:c:\users\rwann pabblo\downloads\trabalho computacao grafica 2.0\trabalho computacao grafica v2zip\trabalho computacao grafica\arquivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arquivo.h"
+	"objetos.h"
+
+1755663312 c:\users\rwann pabblo\downloads\trabalho computacao grafica 2.0\trabalho computacao grafica v2zip\trabalho computacao grafica\arquivo.h
+
+1755663312 c:\users\rwann pabblo\downloads\trabalho computacao grafica 2.0\trabalho computacao grafica v2zip\trabalho computacao grafica\objetos.h
+
+1755710852 source:c:\users\rwann pabblo\downloads\trabalho computacao grafica 2.0\trabalho computacao grafica v2zip\trabalho computacao grafica\eventos.c
+	<GL/freeglut.h>
+	<stdio.h>
+	"objetos.h"
+	"selecao.h"
+	"transformacoes.h"
+	<math.h>
+
+1755663312 c:\users\rwann pabblo\downloads\trabalho computacao grafica 2.0\trabalho computacao grafica v2zip\trabalho computacao grafica\selecao.h
+	"objetos.h"
+
+1755711073 c:\users\rwann pabblo\downloads\trabalho computacao grafica 2.0\trabalho computacao grafica v2zip\trabalho computacao grafica\transformacoes.h
+	"objetos.h"
+
+1755710852 source:c:\users\rwann pabblo\downloads\trabalho computacao grafica 2.0\trabalho computacao grafica v2zip\trabalho computacao grafica\main.c
+	<GL/freeglut.h>
+	"render.h"
+	"eventos.h"
+	"transformacoes.h"
+
+1755663312 c:\users\rwann pabblo\downloads\trabalho computacao grafica 2.0\trabalho computacao grafica v2zip\trabalho computacao grafica\render.h
+
+1755710852 c:\users\rwann pabblo\downloads\trabalho computacao grafica 2.0\trabalho computacao grafica v2zip\trabalho computacao grafica\eventos.h
+
+1755663312 source:c:\users\rwann pabblo\downloads\trabalho computacao grafica 2.0\trabalho computacao grafica v2zip\trabalho computacao grafica\objetos.c
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"objetos.h"
+
+1755663312 source:c:\users\rwann pabblo\downloads\trabalho computacao grafica 2.0\trabalho computacao grafica v2zip\trabalho computacao grafica\render.c
+	<GL/freeglut.h>
+	"objetos.h"
+
+1755663312 source:c:\users\rwann pabblo\downloads\trabalho computacao grafica 2.0\trabalho computacao grafica v2zip\trabalho computacao grafica\selecao.c
+	<math.h>
+	<stdlib.h>
+	"selecao.h"
+
+1755711073 source:c:\users\rwann pabblo\downloads\trabalho computacao grafica 2.0\trabalho computacao grafica v2zip\trabalho computacao grafica\transformacoes.c
+	<math.h>
+	<stdlib.h>
+	"transformacoes.h"
+	"objetos.h"
+	"objetos.h"
+	<math.h>
+
+1755737212 source:d:\arquivos\documents\ufca\trabalho computacao grafica 4.0\trabalho computacao grafica 4.0\animacao.c
+	<GL/freeglut.h>
+	<stdio.h>
+	"objetos.h"
+	"animacao.h"
+
+1755737431 d:\arquivos\documents\ufca\trabalho computacao grafica 4.0\trabalho computacao grafica 4.0\objetos.h
+
+1755737212 d:\arquivos\documents\ufca\trabalho computacao grafica 4.0\trabalho computacao grafica 4.0\animacao.h
+
+1755737212 source:d:\arquivos\documents\ufca\trabalho computacao grafica 4.0\trabalho computacao grafica 4.0\arquivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arquivo.h"
+	"objetos.h"
+	<GL/freeglut.h>
+
+1755737212 d:\arquivos\documents\ufca\trabalho computacao grafica 4.0\trabalho computacao grafica 4.0\arquivo.h
+
+1755738402 source:d:\arquivos\documents\ufca\trabalho computacao grafica 4.0\trabalho computacao grafica 4.0\eventos.c
+	<GL/freeglut.h>
+	<stdio.h>
+	"objetos.h"
+	"selecao.h"
+	"transformacoes.h"
+	<math.h>
+
+1755737212 d:\arquivos\documents\ufca\trabalho computacao grafica 4.0\trabalho computacao grafica 4.0\selecao.h
+	"objetos.h"
+
+1755737212 d:\arquivos\documents\ufca\trabalho computacao grafica 4.0\trabalho computacao grafica 4.0\transformacoes.h
+	"objetos.h"
+
+1755738527 source:d:\arquivos\documents\ufca\trabalho computacao grafica 4.0\trabalho computacao grafica 4.0\main.c
+	<GL/freeglut.h>
+	"render.h"
+	"eventos.h"
+	"transformacoes.h"
+
+1755737212 d:\arquivos\documents\ufca\trabalho computacao grafica 4.0\trabalho computacao grafica 4.0\render.h
+
+1755737212 d:\arquivos\documents\ufca\trabalho computacao grafica 4.0\trabalho computacao grafica 4.0\eventos.h
+
+1755737212 source:d:\arquivos\documents\ufca\trabalho computacao grafica 4.0\trabalho computacao grafica 4.0\render.c
+	<GL/freeglut.h>
+	"objetos.h"
+
+1755737212 source:d:\arquivos\documents\ufca\trabalho computacao grafica 4.0\trabalho computacao grafica 4.0\selecao.c
+	<math.h>
+	<stdlib.h>
+	"selecao.h"
+
+1755737212 source:d:\arquivos\documents\ufca\trabalho computacao grafica 4.0\trabalho computacao grafica 4.0\transformacoes.c
+	<math.h>
+	<stdlib.h>
+	"transformacoes.h"
+	"objetos.h"
+	"objetos.h"
+	<math.h>
+
+1755738445 source:d:\arquivos\documents\ufca\trabalho computacao grafica 4.0\trabalho computacao grafica 4.0\objetos.c
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"objetos.h"
+
+1755737212 source:c:\users\cherllydo\documents\trabalho computacao grafica 5.0\arquivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arquivo.h"
+	"objetos.h"
+	<GL/freeglut.h>
+
+1755737212 c:\users\cherllydo\documents\trabalho computacao grafica 5.0\arquivo.h
+
+1755737431 c:\users\cherllydo\documents\trabalho computacao grafica 5.0\objetos.h
+
+1755738823 source:c:\users\cherllydo\documents\trabalho computacao grafica 5.0\objetos.c
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"objetos.h"
+
+1755737212 source:c:\users\cherllydo\documents\trabalho computacao grafica 5.0\render.c
+	<GL/freeglut.h>
+	"objetos.h"
+
+1755737212 source:c:\users\cherllydo\documents\trabalho computacao grafica 5.0\selecao.c
+	<math.h>
+	<stdlib.h>
+	"selecao.h"
+
+1755737212 c:\users\cherllydo\documents\trabalho computacao grafica 5.0\selecao.h
+	"objetos.h"
+
+1755737212 source:c:\users\cherllydo\documents\trabalho computacao grafica 5.0\transformacoes.c
+	<math.h>
+	<stdlib.h>
+	"transformacoes.h"
+	"objetos.h"
+	"objetos.h"
+	<math.h>
+
+1755737212 c:\users\cherllydo\documents\trabalho computacao grafica 5.0\transformacoes.h
+	"objetos.h"
+
+1756067325 source:d:\arquivos\documents\ufca\trabalho computacao grafica 6.0\trabalho computacao grafica 6.0\animacao.c
+	<GL/freeglut.h>
+	<stdio.h>
+	<math.h>
+	"objetos.h"
+	"animacao.h"
+	"transformacoes.h"
+
+1756068051 d:\arquivos\documents\ufca\trabalho computacao grafica 6.0\trabalho computacao grafica 6.0\objetos.h
+
+1755970713 d:\arquivos\documents\ufca\trabalho computacao grafica 6.0\trabalho computacao grafica 6.0\animacao.h
+
+1756037514 source:d:\arquivos\documents\ufca\trabalho computacao grafica 6.0\trabalho computacao grafica 6.0\arquivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arquivo.h"
+	"objetos.h"
+	<GL/freeglut.h>
+
+1755970713 d:\arquivos\documents\ufca\trabalho computacao grafica 6.0\trabalho computacao grafica 6.0\arquivo.h
+
+1756074058 source:d:\arquivos\documents\ufca\trabalho computacao grafica 6.0\trabalho computacao grafica 6.0\eventos.c
+	<GL/freeglut.h>
+	<stdio.h>
+	"objetos.h"
+	"selecao.h"
+	"transformacoes.h"
+	"undo_system.h"
+	<math.h>
+	"animacao.h"
+	"arquivo.h"
+	"render.h"
+
+1756068251 d:\arquivos\documents\ufca\trabalho computacao grafica 6.0\trabalho computacao grafica 6.0\selecao.h
+	"objetos.h"
+
+1756066802 d:\arquivos\documents\ufca\trabalho computacao grafica 6.0\trabalho computacao grafica 6.0\transformacoes.h
+	"objetos.h"
+
+1756038167 source:d:\arquivos\documents\ufca\trabalho computacao grafica 6.0\trabalho computacao grafica 6.0\main.c
+	<GL/freeglut.h>
+	<stdio.h>
+	"render.h"
+	"eventos.h"
+	"transformacoes.h"
+
+1756067194 d:\arquivos\documents\ufca\trabalho computacao grafica 6.0\trabalho computacao grafica 6.0\render.h
+
+1755970713 d:\arquivos\documents\ufca\trabalho computacao grafica 6.0\trabalho computacao grafica 6.0\eventos.h
+
+1756068062 source:d:\arquivos\documents\ufca\trabalho computacao grafica 6.0\trabalho computacao grafica 6.0\objetos.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"objetos.h"
+
+1756068081 source:d:\arquivos\documents\ufca\trabalho computacao grafica 6.0\trabalho computacao grafica 6.0\render.c
+	<GL/freeglut.h>
+	<stdio.h>
+	<string.h>
+	"render.h"
+	"objetos.h"
+	"eventos.h"
+
+1756068245 source:d:\arquivos\documents\ufca\trabalho computacao grafica 6.0\trabalho computacao grafica 6.0\selecao.c
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	"selecao.h"
+
+1756066792 source:d:\arquivos\documents\ufca\trabalho computacao grafica 6.0\trabalho computacao grafica 6.0\transformacoes.c
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"transformacoes.h"
+	"objetos.h"
+
+1756066967 source:d:\arquivos\documents\ufca\trabalho computacao grafica 6.0\trabalho computacao grafica 6.0\undo_system.c
+	"transformacoes.h"
+	"eventos.h"
+	<stdio.h>
+
+1756073729 d:\arquivos\documents\ufca\trabalho computacao grafica 6.0\trabalho computacao grafica 6.0\undo_system.h
+	"transformacoes.h"
+
